@@ -44,9 +44,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\DataEntities\DataEntities.csproj">
       <Project>{5819c1dc-d5ce-46e7-9e3a-e7c62df1417e}</Project>
       <Name>DataEntities</Name>

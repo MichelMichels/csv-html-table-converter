@@ -22,3 +22,15 @@ C:\Users\Michel\Source\Repos\csv-html-table-converter\ConsoleApplication1\bin\De
 C:\Users\Michel\Source\Repos\csv-html-table-converter\ConsoleApplication1\obj\Debug\StartProject.csprojResolveAssemblyReference.cache
 C:\Users\Michel\Source\Repos\csv-html-table-converter\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Michel\Source\Repos\csv-html-table-converter\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\bin\Debug\ConsoleApplication1.exe
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\bin\Debug\LogicImplementation.dll
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\bin\Debug\DataEntities.dll
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\bin\Debug\DataAccessImplementation.dll
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\bin\Debug\LogicImplementation.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\bin\Debug\DataEntities.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\bin\Debug\DataAccessImplementation.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\obj\Debug\StartProject.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\obj\Debug\ConsoleApplication1.exe
+C:\Users\Michel\Source\Repos\csv-html-table-converter\StartProject\obj\Debug\ConsoleApplication1.pdb
