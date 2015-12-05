@@ -1,0 +1,14 @@
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataAccessImplementation\bin\Debug\DataAccessImplementation.dll
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataAccessImplementation\bin\Debug\DataAccessImplementation.pdb
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataAccessImplementation\bin\Debug\DataEntities.dll
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataAccessImplementation\bin\Debug\DataEntities.pdb
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataAccessImplementation\obj\Debug\DataAccessImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataAccessImplementation\obj\Debug\DataAccessImplementation.dll
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataAccessImplementation\obj\Debug\DataAccessImplementation.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataAccessImplementation\bin\Debug\DataAccessImplementation.dll
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataAccessImplementation\bin\Debug\DataAccessImplementation.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataAccessImplementation\bin\Debug\DataEntities.dll
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataAccessImplementation\bin\Debug\DataEntities.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataAccessImplementation\obj\Debug\DataAccessImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataAccessImplementation\obj\Debug\DataAccessImplementation.dll
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataAccessImplementation\obj\Debug\DataAccessImplementation.pdb

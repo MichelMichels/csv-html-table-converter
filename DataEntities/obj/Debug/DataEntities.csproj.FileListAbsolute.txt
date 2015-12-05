@@ -1,0 +1,10 @@
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataEntities\bin\Debug\DataEntities.dll
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataEntities\bin\Debug\DataEntities.pdb
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataEntities\obj\Debug\DataEntities.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataEntities\obj\Debug\DataEntities.dll
+C:\Users\Michel\Source\Repos\CSharpOO1516-MichelMichels\LogicImplementation\DataEntities\obj\Debug\DataEntities.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataEntities\bin\Debug\DataEntities.dll
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataEntities\bin\Debug\DataEntities.pdb
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataEntities\obj\Debug\DataEntities.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataEntities\obj\Debug\DataEntities.dll
+C:\Users\Michel\Source\Repos\csv-html-table-converter\DataEntities\obj\Debug\DataEntities.pdb
